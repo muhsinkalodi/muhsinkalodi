@@ -1,49 +1,230 @@
-# Hey there, I'm Muhsin Kalodi 👋
+<div align="center">
 
-### 🚀 AI Engineer & Full-Stack Developer
-Building the future of intelligent applications. I bridge the gap between complex machine learning architectures and scalable, high-performance web ecosystems. From fine-tuning LLMs to orchestrating containerized cloud environments, I build production-grade software engineered to scale.
+# Muhsin Kalodi
 
----
+### AI Engineer • Machine Learning • Full Stack Developer
 
-## 🛠️ Tech Stack & Ecosystem
+Building intelligent systems, scalable web applications, and production-ready software.
 
-### 🤖 Artificial Intelligence & Data Science
-*   **LLM Fine-Tuning & RAG:** Unsloth, LoRA, LangChain, Hugging Face
-*   **Core ML / Data Engineering:** Python, Scikit-learn, Pandas, NumPy
-*   **Architectures:** Retrieval-Augmented Generation (RAG), Predictive Modeling, Decision Trees
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Artificial+Intelligence+Developer;Full+Stack+Software+Engineer;Building+Production+Ready+Applications;Always+Learning+Always+Building" />
 
-### 💻 Full-Stack Architecture
-*   **Frontend Ecosystem:** React.js, Next.js, Nuxt 3, Vue.js, Tailwind CSS
-*   **Backend & APIs:** Node.js, Express.js, RESTful APIs
-*   **Databases & Storage:** PostgreSQL, MongoDB, Redis
-
-### ⚙️ DevOps, Cloud & Environments
-*   **Local Cloud Infrastructure:** LocalStack (Offline AWS Simulation)
-*   **Containerization & OS:** Docker, Kali Linux, Ubuntu
-*   **Version Control & Platforms:** Git, GitHub Actions
+</div>
 
 ---
 
-## 📊 Core Focus & Operational Expertise
+# About Me
 
-*   **Intelligent SaaS & CRM Applications:** Architecting scalable enterprise management tools, automation platforms, and specialized hardware-software interfaces.
-*   **Offline-First & Mock-Cloud Fabrics:** Engineering high-availability environments running distributed services entirely offline using containerized simulation stacks.
-*   **Data Pipeline Engineering:** Crafting precise backend architectures, complex relational data migrations, and automated pipeline logic.
+I'm an AI Engineer passionate about building intelligent software that solves real-world problems.
+
+Currently pursuing **M.Tech in Artificial Intelligence & Machine Learning** while continuously expanding my expertise in
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models
+- Full Stack Development
+- Backend Architecture
+- REST APIs
+- Cloud Technologies
+
+I enjoy transforming ideas into scalable software with clean architecture and maintainable code.
 
 ---
 
-## 📈 Git Status & Metrics
+# Current Focus
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhsinkalodi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinkaloidiE&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+- Building AI-powered applications
+- Exploring Agentic AI Systems
+- Learning MLOps & Cloud Deployment
+- Backend Engineering
+- Full Stack Development
+- Open Source Contributions
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,html,css"/>
+
+</p>
+
+## AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## Backend
 
-Let's collaborate on groundbreaking AI initiatives, full-stack architectures, or complex engineering challenges.
+<p>
 
-*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/muhsinkalodi)
-*   **Email:** [your.email@example.com](mailto:muhsinkalodi9311@gmail.com)
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+---
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhsinkalodi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhsinkalodi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=muhsinkalodi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhsinkalodi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Architecture Mindset
+
+```
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Data
+ │
+ ▼
+Machine Learning
+ │
+ ▼
+Backend API
+ │
+ ▼
+Frontend
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvement
+```
+
+---
+
+# What I Believe
+
+> Clean Code
+
+> Scalable Architecture
+
+> AI First Development
+
+> Performance Matters
+
+> Keep Learning
+
+---
+
+# Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/muhsinkalodi">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/muhsinkalodi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:muhsinkalodi9311@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=muhsinkalodi&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### Building Intelligent Systems One Commit at a Time
+
+</div>
